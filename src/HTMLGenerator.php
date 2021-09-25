@@ -1,6 +1,6 @@
 <?php
 /**
- * HTML Generator Class file.
+ * HTML Generator Class file
  *  
  * @version 1.0 
 */
