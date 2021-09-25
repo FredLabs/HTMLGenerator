@@ -1,0 +1,7 @@
+{
+    "name": "FredLabs/HTMLGenerator",
+    "description": "A library that will generate HTML code",
+    "require": {
+        "php": "^7.2"
+    }
+}
